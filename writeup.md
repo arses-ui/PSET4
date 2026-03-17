@@ -27,3 +27,8 @@ I computed confusion matrices for both OVR and OVO and displayed a multiclass co
 ## Notes
 - The submission notebook contains the complete implementation and all required task code.
 - Run all notebook cells so outputs (accuracies and confusion matrix figures) are fully displayed before final submission.
+
+## Reflection
+
+This was a pretty helpful exercise because it helped me properly itnernalize soft margin SVMs and OVO/ OVR classifiers. While I already worked on an assignment similar to this in ENGS 96 last =, this exercise was still challenging and taught me a lot
+
